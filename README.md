@@ -1,3 +1,3 @@
-# Abhishek-Amozone-font-hand-devlopment.
+# Abhishek-Amozone-front-end-devlopment.
 <br>
 Authore - Abhishek Trivedi 
