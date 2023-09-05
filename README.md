@@ -1,3 +1,3 @@
-# Abhishek-Amozone-front-end-devlopment.
+# Abhishek-Amazon-front-end-devlopment.
 <br>
 Authore - Abhishek Trivedi 
